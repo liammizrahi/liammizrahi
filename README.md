@@ -26,17 +26,17 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/liammizrahi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://linkedin.com/in/liammizrahi" target="_blank">
+  <img src="https://shieldcn.dev/badge/LinkedIn-0A66C2.svg?variant=branded&size=sm&mode=light&logo=ri:FaLinkedin" alt="LinkedIn" />
+</a>
   <a href="https://x.com/liammizrahi21" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://shieldcn.dev/badge/X-000000.svg?variant=branded&size=sm&mode=light&logo=x" alt="X" />
   </a>
   <a href="https://instagram.com/liammizrahi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://shieldcn.dev/badge/Instagram-E4405F.svg?variant=branded&size=sm&mode=light&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://facebook.com/liam.mizrahi" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://shieldcn.dev/badge/Facebook-1877F2.svg?variant=branded&size=sm&mode=light&logo=facebook" alt="Facebook" />
   </a>
 </p>
 
@@ -44,67 +44,98 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**💻 Languages**
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://shieldcn.dev/badge/TypeScript-3178C6.svg?variant=branded&size=sm&mode=light&logo=typescript" />
+  <img src="https://shieldcn.dev/badge/JavaScript-F7DF1E.svg?variant=branded&size=sm&mode=light&logo=javascript" />
+  <img src="https://shieldcn.dev/badge/Python-3670A0.svg?variant=branded&size=sm&mode=light&logo=python" />
+  <img src="https://shieldcn.dev/badge/Java-ED8B00.svg?variant=branded&size=sm&mode=light&logo=openjdk" />
+  <img src="https://shieldcn.dev/badge/Swift-F54A2A.svg?variant=branded&size=sm&mode=light&logo=swift" />
+  <img src="https://shieldcn.dev/badge/C++-00599C.svg?variant=branded&size=sm&mode=light&logo=cplusplus" />
+  <img src="https://shieldcn.dev/badge/C-A8B9CC.svg?variant=branded&size=sm&mode=light&logo=c" />
+  <img src="https://shieldcn.dev/badge/PHP-777BB4.svg?variant=branded&size=sm&mode=light&logo=php" />
+  <img src="https://shieldcn.dev/badge/HTML5-E34F26.svg?variant=branded&size=sm&mode=light&logo=html5" />
 </p>
 
-**Frontend**
+**🎨 Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
+  <img src="https://shieldcn.dev/badge/React-61DAFB.svg?variant=branded&size=sm&mode=light&logo=react" />
+  <img src="https://shieldcn.dev/badge/React_Native-61DAFB.svg?variant=branded&size=sm&mode=light&logo=react" />
+  <img src="https://shieldcn.dev/badge/Next.js-000000.svg?variant=branded&size=sm&mode=light&logo=nextdotjs" />
+  <img src="https://shieldcn.dev/badge/Vue.js-4FC08D.svg?variant=branded&size=sm&mode=light&logo=vuedotjs" />
+  <img src="https://shieldcn.dev/badge/Nuxt.js-00DC82.svg?variant=branded&size=sm&mode=light&logo=nuxt" />
+  <img src="https://shieldcn.dev/badge/Expo-000020.svg?variant=branded&size=sm&mode=light&logo=expo" />
+  <img src="https://shieldcn.dev/badge/Tailwind_CSS-38B2AC.svg?variant=branded&size=sm&mode=light&logo=tailwindcss" />
+  <img src="https://shieldcn.dev/badge/Vite-646CFF.svg?variant=branded&size=sm&mode=light&logo=vite" />
+  <img src="https://shieldcn.dev/badge/Electron-2C2E3B.svg?variant=branded&size=sm&mode=light&logo=electron" />
 </p>
 
-**Backend**
+**⚙️ Backend**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://shieldcn.dev/badge/Node.js-339933.svg?variant=branded&size=sm&mode=light&logo=nodedotjs" />
+  <img src="https://shieldcn.dev/badge/NestJS-E0234E.svg?variant=branded&size=sm&mode=light&logo=nestjs" />
+  <img src="https://shieldcn.dev/badge/Fastify-000000.svg?variant=branded&size=sm&mode=light&logo=fastify" />
+  <img src="https://shieldcn.dev/badge/Laravel-FF2D20.svg?variant=branded&size=sm&mode=light&logo=laravel" />
+  <img src="https://shieldcn.dev/badge/Nginx-009639.svg?variant=branded&size=sm&mode=light&logo=nginx" />
 </p>
 
-**Databases**
+**🗄️ Databases**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?variant=branded&size=sm&mode=light&logo=postgresql" />
+  <img src="https://shieldcn.dev/badge/DynamoDB-4053D6.svg?variant=branded&size=sm&mode=light&logo=ri:FaAws" />
+  <img src="https://shieldcn.dev/badge/MongoDB-47A248.svg?variant=branded&size=sm&mode=light&logo=mongodb" />
+  <img src="https://shieldcn.dev/badge/Redis-DC382D.svg?variant=branded&size=sm&mode=light&logo=redis" />
+  <img src="https://shieldcn.dev/badge/OpenSearch-005EB8.svg?variant=branded&size=sm&mode=light&logo=opensearch" />
+  <img src="https://shieldcn.dev/badge/Elasticsearch-005571.svg?variant=branded&size=sm&mode=light&logo=elasticsearch" />
+  <img src="https://shieldcn.dev/badge/MySQL-4479A1.svg?variant=branded&size=sm&mode=light&logo=mysql" />
 </p>
 
-**DevOps & Cloud**
+**☁️ DevOps & Cloud**
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalOcean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/CircleCI-161616?style=for-the-badge&logo=circleci&logoColor=white" />
+  <img src="https://shieldcn.dev/badge/AWS-FF9900.svg?variant=branded&size=sm&mode=light&logo=ri:FaAws" />
+  <img src="https://shieldcn.dev/badge/DigitalOcean-0080FF.svg?variant=branded&size=sm&mode=light&logo=digitalocean" />
+  <img src="https://shieldcn.dev/badge/Docker-2496ED.svg?variant=branded&size=sm&mode=light&logo=docker" />
+  <img src="https://shieldcn.dev/badge/Terraform-7B42BC.svg?variant=branded&size=sm&mode=light&logo=terraform" />
+  <img src="https://shieldcn.dev/badge/Raspberry_Pi-A22846.svg?variant=branded&size=sm&mode=light&logo=raspberrypi" />
+  <img src="https://shieldcn.dev/badge/Turborepo-EF4444.svg?variant=branded&size=sm&mode=light&logo=turborepo" />
+  <img src="https://shieldcn.dev/badge/GitHub_Actions-2088FF.svg?variant=branded&size=sm&mode=light&logo=githubactions" />
+  <img src="https://shieldcn.dev/badge/TeamCity-000000.svg?variant=branded&size=sm&mode=light&logo=teamcity" alt="TeamCity" />
+  <img src="https://shieldcn.dev/badge/CircleCI-343434.svg?variant=branded&size=sm&mode=light&logo=circleci" />
+  <img src="https://shieldcn.dev/badge/Vercel-000000.svg?variant=branded&size=sm&mode=light&logo=vercel" />
 </p>
 
-**Testing & Tools**
+**🧪 Testing & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://shieldcn.dev/badge/Jest-C21325.svg?variant=branded&size=sm&mode=light&logo=jest" />
+  <img src="https://shieldcn.dev/badge/Vitest-6E9F18.svg?variant=branded&size=sm&mode=light&logo=vitest" />
+<img src="https://shieldcn.dev/badge/Playwright-2EAD33.svg?variant=branded&size=sm&mode=light&logo=ri:SiPlaywright" />
+  <img src="https://shieldcn.dev/badge/Puppeteer-40B5A4.svg?variant=branded&size=sm&mode=light&logo=puppeteer" />
+  <img src="https://shieldcn.dev/badge/Figma-F24E1E.svg?variant=branded&size=sm&mode=light&logo=figma" />
+  <img src="https://shieldcn.dev/badge/Git-F05033.svg?variant=branded&size=sm&mode=light&logo=git" />
 </p>
+
+### 🤖 AI
+
+<p>
+  <img src="https://shieldcn.dev/badge/AI_SDK-000000.svg?variant=branded&size=sm&mode=light&logo=vercel" />
+  <img src="https://shieldcn.dev/badge/LangChain-1C3C3C.svg?variant=branded&size=sm&mode=light&logo=ri:SiLangchain" />
+<img src="https://shieldcn.dev/badge/LangGraph-1C3C3C.svg?variant=branded&size=sm&mode=light&logo=ri:SiLanggraph" />
+  <img src="https://shieldcn.dev/badge/AWS_Bedrock-FF9900.svg?variant=branded&size=sm&mode=light&logo=ri:FaAws" />
+</p>
+
+### 🌟 Open Source Contributions
+
+<p>
+  <a href="https://github.com/ministackorg/ministack" target="_blank">
+    <img src="https://shieldcn.dev/badge/ministack-4D8FCC.svg?variant=branded&size=sm&mode=light&logo=ri:FaServer" alt="ministack" />
+  </a>
+  <a href="https://github.com/liammizrahi/stackdeck" target="_blank">
+    <img src="https://shieldcn.dev/badge/stackdeck-4356F6.svg?variant=branded&size=sm&mode=light&logo=ri:FaLayerGroup" alt="stackdeck" />
+  </a>
+</p>
+
+- 🧰 **[ministack](https://github.com/ministackorg/ministack)**
+- 🃏 **[stackdeck](https://github.com/liammizrahi/stackdeck)**
 
 ---
 
