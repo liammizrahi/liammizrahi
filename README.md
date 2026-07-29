@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Liam Mizrahi</h1>
-<h3 align="center">Full-Stack Developer · Building things across web, mobile & infra</h3>
+<h1 align="center">Hi 👋 I'm Liam Mizrahi</h1>
+<h3 align="center">Senior Full-Stack Developer · Building things across web, mobile & infra</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6DA5FA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%7C+Node.js+%7C+React;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Senior+Full-Stack+Developer;Building+across+web%2C+mobile+%26+infra;Designing+scalable+systems;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
